@@ -32,3 +32,5 @@ A funkciók kifejtése elõtt szót lehet arról ejteni, hogy milyen platformokra, op
         Követelmény2
         …
         Követelmény n
+
+.
