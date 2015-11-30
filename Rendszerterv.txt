@@ -1,3 +1,14 @@
-c
+Rendszerterv
 
-cica
+Szükségünk van egy számítógépre,vagy más megjelenítõ eszközre.
+A weblapunk elkészítéséhez kell egy böngészõ,Wordpress és otthoni hálózat.
+Adatot adatbázisok segítségével tárolunk.
+
+
+A szükséges hardvereszközök:
+-Minimum 2db általános célú PC
+
+A szükséges szoftverek:
+-Operációs rendszer,amely képes böngészõt futtatni
+-Office csomag
+-Photoshop
