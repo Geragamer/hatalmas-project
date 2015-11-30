@@ -1,36 +1,20 @@
-Mi az a funkcionális specifikáció?
+Funkcionális Specifikáció
 
-A funkcionális specifikáció egy olyan fejlesztési dokumentum, amit a megrendelõ (ügyfél) készít, és aminek a célja, hogy egyértelmûen leírja a termék (fejlesztendõ szoftver/rendszer) elvárt mûködését és követelményeit. A funkcionális specifikáció nem egy technológiai dokumentáció (nem tér ki a funkciók megvalósításának mikéntjére), ehelyett a rendszert a felhasználó szemszögébõl ismerteti, tulajdonságokat ír le.
+A funkcionális specifikáció egy olyan fejlesztési dokumentum, amit a megrendelõ (ügyfél) készít, és aminek a célja, hogy egyértelmûen leírja a termék elvárt mûködését és követelményeit
+Egy CMS alapokon mûködõ weboldal készítését várom el önöktõl, ami összefoglalja a napjaink technológiai újításait egy helyen. 
 
-Fõ kérdése: Mit tud, mit nyújt az applikáció?
+A weboldal fõ funkciói:
+•	Keresés
+•	Friss információk közlése
+•	Naprakészség
+•	Ismeretterjesztés
+•	Véleménynyilvánítás (fórum)
+•	Adatbiztonsági funkciók 
+•	Értékelés
+•	Megosztási lehetõség
 
-Menüket, képernyõket, dialógusablakokat határoz meg. A funkcionális specifikáció az applikáció „kívülrõl” látható és érzékelhetõ leírását adja a rendszernek. A specifikáció akkor jó, ha minden érintett (megrendelõ, projektvezetõ, fejlesztõk, stb.) számára érthetõ és használható. Arra fókuszál, hogy a külsõ entitások (felhasználók, perifériák, más gépek) hogyan lépnek interakcióba a rendszerrel, mit „látnak” az interakció során. Tehát az a funkcionális specifikáció fõ feladata, hogy leírja ezen lehetséges interakciók (használati esetek) halmazát.
-
-Példa egy funkció leírására: Ha a felhasználó megnyomja az „OK”gombot, akkor a párbeszédablak bezárul, és a fõoldalra jut.
-
-Komplex rendszerek esetében több (szintû) funkcionális specifikáció létezhet a részletességnek megfelelõen, pl.: rendszer-, modul- és objektumszintû specifikáció.
-
-Miért van szükség funkcionális specifikációra?
-
-A funkcionális specifikáció gyakorlatilag a fejlesztendõ applikáció elsõ, szöveges tervrajza (amit sokszor ábrák támogatnak). Jelentõsen megkönnyíti a kommunikációt az ügyféllel (és minden egyéb érdekelttel). Specifikáció nélkül a fejlesztõk számára lehetetlen a feladat pontos feltérképezése. A Specifikáció hiánya ellehetetleníti a pontos ütemezést. A funkcionális specifikáció elkészítésének kihagyása a legnagyobb (ráadásul szükségtelen) kockázatvállalás az egész projektet figyelembe véve. Fontos a specifikáció naprakészsége, új igények, döntések, környezeti változások esetén frissíteni kell a dokumentációt is.
-
-Egy tipikus funkcionális specifikáció felépítése:
-// Áttekintés
-
-Az alkalmazás néhány soros bemutatása: az alkalmazás célja, fõ funkciói, célközönsége. Ezen kívül szót lehet még ejteni itt a termék környezetérõl, a korlátozásokról és a követelmények csoportosításának szempontjairól.
-// A rendszer funkciói
-
-A funkciók kifejtése elõtt szót lehet arról ejteni, hogy milyen platformokra, oprendszer verziókra és milyen eszközökre tervezik megvalósítani az alkalmazást (esetleg ezek priorizálása is tanácsos).
-
-    Kliensoldal (a felhasználó készülékén futó alkalmazás funkciói)
-        Követelmény1
-        Követelmény2
-        …
-        Követelmény n
-    Szerveroldal
-        Követelmény1
-        Követelmény2
-        …
-        Követelmény n
-
-.
+Követelmények:
+Az oldal minden webes böngészõbõl megnyitható, jól látható letisztult legyen.
+A kezdõoldal egy alap leírás legyen az oldalról és a menüpontok között lehessen a témák között váltogatni.
+Több konkrét téma is van amit szeretnék, hogy szerepeljen a weboldalon.
+pl: számítógépes újdonságok, új televíziók, ocolus rift.
