@@ -1,20 +1,22 @@
+
 Funkcionális Specifikáció
 
-A funkcionális specifikáció egy olyan fejlesztési dokumentum, amit a megrendelõ (ügyfél) készít, és aminek a célja, hogy egyértelmûen leírja a termék elvárt mûködését és követelményeit
-Egy CMS alapokon mûködõ weboldal készítését várom el önöktõl, ami összefoglalja a napjaink technológiai újításait egy helyen. 
+Egy CMS alapokon mûködõ weboldal készítését várom el önöktõl, ami összefoglalja a napjaink technológiai újításait egy helyen.
 
-A weboldal fõ funkciói:
-•	Keresés
-•	Friss információk közlése
-•	Naprakészség
-•	Ismeretterjesztés
-•	Véleménynyilvánítás (fórum)
-•	Adatbiztonsági funkciók 
-•	Értékelés
-•	Megosztási lehetõség
+A weoldal fõ funkciói:
+
+	• Keresés
+	• Friss információk közlése
+	• Naprakészség
+	• Ismeretterjesztés
+	• Véleménynyilvánítás (fórum)
+	• Adatbiztonsági funkciók
+	• Értékelés
+	• Megosztási lehetõség
 
 Követelmények:
-Az oldal minden webes böngészõbõl megnyitható, jól látható letisztult legyen.
-A kezdõoldal egy alap leírás legyen az oldalról és a menüpontok között lehessen a témák között váltogatni.
-Több konkrét téma is van amit szeretnék, hogy szerepeljen a weboldalon.
+
+Az oldal minden webes böngészõbõl megnyitható, jól látható, letisztult legyen.
+A kezdõoldal egy alap leírás legyen az oldalról és a menüõpontok között lehessen a témát váltogatni.
+Több kontkét téma is van kérek, hogy szerepeljen a weboldalon.
 pl: számítógépes újdonságok, új televíziók, ocolus rift.
