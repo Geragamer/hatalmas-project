@@ -1,1 +1,25 @@
-a
+Követelmény Specifikációk
+
+Ebben a dokumentumban tájékozódhatunk arról,hogy mit várunk el a projektunktõl végeredmény képpen.
+A csapat tagok tájékoztatására szólgál.
+
+A projektünk egy CMS alapokon alapuló weboldal,amely összefoglalja napjaink technológiai újításait egy helyen.
+Folyamatos keresés után,összegyüjtve az olvasó igényeit követve láthatja a híreket.
+
+A legfontosabb funkciók:
+
+	-Keresés
+	-Friss információk közlése
+	-Naprakészség
+	-Ismeretterjesztés
+	-Vélemény nyílvánítás(forum)
+	-Adatbiztonsági funkciók 
+	-Értékelés
+	-Megosztási lehetõség
+
+Adatbázis
+
+A weblap jelenleg helyi szinten Xamp segítségével PhpmyAdmin adatbázissal mûködik,Wordpress alapokon.Az adatbázisban a rendszergazda jogosultságú
+felhasználó bármit módosíthat,hozzáadhat,törölhet. Az adatbázis eléréséhez regisztrációra van szükség,jogaik korlátozatabbak a rendszergazdánál.
+
+
