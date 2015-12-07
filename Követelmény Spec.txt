@@ -20,6 +20,6 @@ A legfontosabb funkciók:
 Adatbázis
 
 A weblap jelenleg helyi szinten Xamp segítségével PhpmyAdmin adatbázissal mûködik,Wordpress alapokon.Az adatbázisban a rendszergazda jogosultságú
-felhasználó bármit módosíthat,hozzáadhat,törölhet. Az adatbázis eléréséhez regisztrációra van szükség,jogaik korlátozatabbak a rendszergazdánál.
+felhasználó bármit módosíthat,hozzáadhat,törölhet.A felhasználóknak korlátozott jogaik vannak.Az adatbázis eléréséhez regisztrációra van szükség,jogaik korlátozatabbak a rendszergazdánál.
 
 
