@@ -12,8 +12,7 @@ A legfontosabb funkciók:
 	-Friss információk közlése
 	-Naprakészség
 	-Ismeretterjesztés
-	-Vélemény nyílvánítás(forum)
-	-Adatbiztonsági funkciók 
+	-Vélemény nyílvánítás
 	-Értékelés
 	-Megosztási lehetõség
 
