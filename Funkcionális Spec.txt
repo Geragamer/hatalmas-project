@@ -9,8 +9,7 @@ A weoldal fõ funkciói:
 	• Friss információk közlése
 	• Naprakészség
 	• Ismeretterjesztés
-	• Véleménynyilvánítás (fórum)
-	• Adatbiztonsági funkciók
+	• Véleménynyilvánítás
 	• Értékelés
 	• Megosztási lehetõség
 
